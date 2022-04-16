@@ -9,7 +9,6 @@ https://emperorgesar.itch.io/unity-maze
 
 ## Description
 
-- Option 3: The Maze
 - Collect keys in the maze to reach the exit
 - Open gates to land on the boat
 
@@ -20,7 +19,7 @@ https://emperorgesar.itch.io/unity-maze
 
 ## Controls
 
-- Hold W to move forward
+- Hold WASD to move
 - Move the mouse to rotate the camera horizontally
 - Press Esc to pause in game
 
